@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "ERROR: No README data found!",
+  "main": "index.js",
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "backbone.io": "~0.4.0",
+    "grunt": "~0.4.1",
+    "express": "~3.4.0",
+    "lodash": "~2.2.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "browserify-middleware": "~1.19.0",
+    "socket.io": "~0.9.16",
+    "socket.io-client": "~0.9.16",
+    "multilevel": "~5.5.0",
+    "jquery-browserify": "~1.8.1",
+    "grunt-usemin": "~0.1.12"
+  },
+  "devDependencies": {
+    "grunt-contrib-hogan": "~0.2.3",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
